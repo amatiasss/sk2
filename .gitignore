@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Planning artifacts (local, not versioned)
+.kiro/plans/
